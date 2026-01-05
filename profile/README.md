@@ -3,7 +3,7 @@
 
 <p align="center">
   <!-- Place the provided logo image at docs/assets/logo.png -->
-  <img alt="Brettspielrunde logo" src="docs/assets/logo.png" width="220" />
+  <img alt="Brettspielrunde logo" src="../docs/assets/logo.png" width="220" />
   <br/>
   <em>Brettspielrunde — the shared digital memory and organizer for your board game nights</em>
 </p>
