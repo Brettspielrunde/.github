@@ -5,68 +5,173 @@
   <!-- Place the provided logo image at docs/assets/logo.png -->
   <img alt="Brettspielrunde logo" src="../docs/assets/logo.png" width="220" />
   <br/>
-  <em>Brettspielrunde — the shared digital memory and organizer for your board game nights</em>
+  <em>Brettspielrunde — play together, track results, build your own games</em>
 </p>
 
-Summary
--------
-Brettspielrunde is the shared digital home for a gaming group — a place to record sessions, remember highlights, and plan future game nights. This repository contains the official app content that embodies the Brettspielrunde: data models, session logic and the user-facing content used by the mobile, desktop and other clients.
+# Brettspielrunde
 
-What the app does
------------------
-The app helps groups answer simple questions about their shared game nights:
-- What did we play and when?
-- Who attended and how did they score?
-- Which games are favorites, and which should we try next?
-- What funny stories or house-rules did we create?
+**Brettspielrunde** is a social platform for playing games together, tracking results, and turning repeated play into meaningful shared statistics.
 
-Core goals
-----------
-- Capture session history with players, games, results and notes.
-- Keep a simple game collection for the group: what you own, want to play, or recommend.
-- Provide quick tools for adding sessions during or after a night.
-- Offer an exploratory view (timeline, most played, activity) to celebrate your group's history.
+Playing together is easy.  
+Keeping everything around it organized usually is not.
 
-Key features
-------------
-- Session log: date, location, players, games, results and freeform notes.
-- Player management: simple profiles, nicknames and session links.
-- Game library: player counts, durations, tags and “want to play” flags.
-- Notes & highlights: store memorable moments and house rules with sessions.
-- Group overview: timeline and lightweight statistics to understand the group's habits.
-- Desktop client available for comfortable browsing and editing.
+Results disappear in chat messages, rankings end up in spreadsheets, custom rules get reinvented every time, and groups often have no proper shared place to manage how they play.
 
-Platforms
----------
-Brettspielrunde is intended to be available across devices so your group's data is wherever you need it:
-- Mobile: quick entry at the table
-- Desktop: comfortable browsing and editing
-- Web (optional): access without installation
-The exact platform set may evolve, but the data and experience should follow the group.
+**Brettspielrunde** is built to solve that:
+a shared app for **playing, tracking, comparing, organizing, and creating games together**.
 
-Who is this for?
-----------------
-- Regular gaming groups
-- Casual meetups with changing players
-- Clubs or cafés that want a simple play log
-- Anyone who wants a “game night diary” rather than a competitive tracker
+---
 
-Project status & access
------------------------
-- This repository is private. Request access from the organization maintainers to view or contribute.
-- The product is in active development — features may change rapidly.
+## Core idea
 
-How to get access
------------------
-- Ask the repo maintainers / organization owners for read or write access.
-- After access is granted, clone the repo using SSH or HTTPS and follow the build/run instructions in the repository.
+Brettspielrunde focuses on three things:
 
-Vision
-------
-Brettspielrunde should be the natural memory of your group: easy to add entries during the evening, useful to look back on later, and helpful when planning the next game night.
+- **Play with friends and groups**
+- **Track matches, stats, and optional ratings**
+- **Create your own custom games with a flexible low-code style system**
 
-Contact
--------
-If you are part of the organization and want access, want to contribute, or want to discuss the concept, contact the maintainers through your organization's internal communication channels.
+This makes it useful for both:
+- **casual rounds**
+- and **competitive recurring play**
 
-Thank you
+---
+
+## What it enables
+
+### Play together
+Create matches and play sessions with:
+- friends
+- private groups
+- recurring player circles
+- casual or competitive formats
+
+### Track results
+Record things like:
+- wins and losses
+- placements
+- points and scores
+- repeated matchups
+- player performance over time
+
+### Use Elo — or don’t
+Not every group wants ranked play.
+
+Brettspielrunde is intended to support both:
+- **competitive play with Elo / rating systems**
+- **casual play without ratings**
+
+That means each group or game format can decide how seriously it wants to track progression.
+
+### Build your own games
+A major part of Brettspielrunde is the ability to create custom games and reusable play formats.
+
+Instead of being limited to predefined systems, the platform is designed to support a highly interactive, low-code style setup for things like:
+- player count
+- score logic
+- placements
+- rounds
+- win conditions
+- custom stat behavior
+- rating compatibility
+
+The goal is to make custom game structures feel natural, reusable, and easy to manage.
+
+### Groups and shared spaces
+Groups are a central part of the platform.
+
+They can be used to create shared play spaces for:
+- friend circles
+- weekly game nights
+- clubs or communities
+- seasons, ladders, or recurring formats
+
+Depending on product scope, groups may support features such as:
+- shared stats
+- internal rankings
+- member roles
+- invites
+- custom group rules
+- group-specific game formats
+
+---
+
+## What makes it different
+
+Brettspielrunde is not primarily:
+- a board game collection app
+- a static session diary
+- or just a notes tool
+
+Its focus is **actual repeated play**.
+
+The app is meant to be useful:
+- **before playing** → organize players, groups, and formats
+- **during playing** → enter results and scores
+- **after playing** → view stats, rankings, and progression
+
+That makes it closer to a **social play platform** than a passive tracker.
+
+---
+
+## Who it is for
+
+Brettspielrunde is intended for:
+- friend groups who play regularly
+- competitive board game circles
+- casual gaming rounds
+- clubs and communities
+- people who invent their own game formats
+- anyone who wants structured shared stats around repeated play
+
+---
+
+## Platforms
+
+Brettspielrunde is intended to be available wherever it is useful:
+
+- **Mobile** — quick interaction during play
+- **Desktop** — more comfortable browsing, setup, and management
+- **Additional platforms** may be supported over time
+
+---
+
+## Project status
+
+Brettspielrunde is currently in **active development**.
+
+The current product direction focuses on:
+- multiplayer play workflows
+- social and group features
+- ratings and statistics
+- flexible custom game creation
+
+Features and scope may still evolve significantly.
+
+---
+
+## Repository access
+
+This repository is private.
+
+To get access:
+- contact the repository maintainers / organization owners
+- request read or write access
+- follow the internal setup instructions after access is granted
+
+---
+
+## Vision
+
+Brettspielrunde should become the shared digital layer around playing games together:
+
+- easy enough to use while actually playing
+- powerful enough to track meaningful long-term stats
+- flexible enough to support your own game ideas
+
+> **Play more. Track better. Build your own way to play.**
+
+---
+
+## Contact
+
+If you are part of the organization and want access, want to contribute, or want to discuss the product direction, please contact the maintainers through your internal communication channels.
