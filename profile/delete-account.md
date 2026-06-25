@@ -27,7 +27,7 @@ Push-Tokens, Gerätekennungen und nicht mehr benötigte personenbezogene Zuordnu
 
 Falls der Zugriff auf die App nicht mehr möglich ist, kann eine Löschanfrage per E-Mail gestellt werden:
 
-kontakt@brettspielrunde.com
+contact@brettspielrunde.com
 
 Zur Vermeidung unberechtigter Löschungen kann eine Verifikation erforderlich sein, damit sichergestellt ist, dass die Anfrage vom betroffenen Nutzerkonto stammt.
 
@@ -53,6 +53,6 @@ Push tokens, device identifiers, and personal associations that are no longer re
 
 If access to the app is no longer possible, a deletion request may be sent by email to:
 
-kontakt@brettspielrunde.com
+contact@brettspielrunde.com
 
 To prevent unauthorized deletion, verification may be required to ensure that the request comes from the affected user account.
