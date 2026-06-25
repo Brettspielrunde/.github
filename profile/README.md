@@ -175,3 +175,9 @@ Brettspielrunde should become the shared digital layer around playing games toge
 ## Contact
 
 If you are part of the organization and want access, want to contribute, or want to discuss the product direction, please contact the maintainers through your internal communication channels.
+
+--- 
+
+## Links & References
+
+- [How to delete my account?](delete-account.md)
