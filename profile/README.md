@@ -181,4 +181,4 @@ If you are part of the organization and want access, want to contribute, or want
 ## Links & References
 
 - [How to delete my account?](delete-account.md)
-- [Privacy Policy]}(privacy-policy.md)
+- [Privacy Policy](privacy-policy.md)
