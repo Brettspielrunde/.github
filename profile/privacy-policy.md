@@ -32,7 +32,7 @@ Buchwaldstr. 5
 63303 Dreieich  
 Deutschland  
 
-E-Mail: kontakt@brettspielrunde.com
+E-Mail: contact@brettspielrunde.com
 
 ## 2. Zweck der App
 
@@ -227,7 +227,7 @@ Einstellungen → Konto → Konto löschen
 
 Falls der Zugriff auf die App nicht mehr möglich ist, kann eine Löschung oder Löschanfrage per E-Mail gestellt werden:
 
-kontakt@brettspielrunde.com
+contact@brettspielrunde.com
 
 Zur Vermeidung unberechtigter Löschungen kann eine Verifikation erforderlich sein, damit sichergestellt ist, dass die Anfrage vom betroffenen Nutzerkonto stammt.
 
@@ -284,7 +284,7 @@ Nutzer haben nach Maßgabe der DSGVO insbesondere folgende Rechte:
 
 Anfragen können per E-Mail an folgende Adresse gerichtet werden:
 
-kontakt@brettspielrunde.com
+contact@brettspielrunde.com
 
 Nutzer haben außerdem das Recht, sich bei einer Datenschutzaufsichtsbehörde zu beschweren. Zuständig ist insbesondere die Aufsichtsbehörde am Sitz des Verantwortlichen oder am Wohnort des Nutzers.
 
@@ -329,7 +329,7 @@ Buchwaldstr. 5
 63303 Dreieich  
 Germany  
 
-Email: kontakt@brettspielrunde.com
+Email: contact@brettspielrunde.com
 
 ## 2. Purpose of the App
 
@@ -524,7 +524,7 @@ Settings → Account → Delete account
 
 If access to the app is no longer possible, a deletion request may be sent by email to:
 
-kontakt@brettspielrunde.com
+contact@brettspielrunde.com
 
 To prevent unauthorized deletion, verification may be required to ensure that the request comes from the affected user account.
 
@@ -581,7 +581,7 @@ Subject to the requirements of the GDPR, users have in particular the following 
 
 Requests can be sent by email to:
 
-kontakt@brettspielrunde.com
+contact@brettspielrunde.com
 
 Users also have the right to lodge a complaint with a data protection supervisory authority. The competent authority is in particular the supervisory authority at the controller’s place of establishment or at the user’s place of residence.
 
