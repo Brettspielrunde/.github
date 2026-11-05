@@ -1,5 +1,5 @@
-[![Status](https://img.shields.io/badge/status-in%20development-orange.svg)](#)
-[![Visibility](https://img.shields.io/badge/repository-private-red.svg)](#)
+[![Status](https://img.shields.io/badge/status-beta-orange.svg)](#)
+[![Source code](https://img.shields.io/badge/source%20code-private-red.svg)](#)
 
 <p align="center">
   <!-- Place the provided logo image at docs/assets/logo.png -->
@@ -137,7 +137,7 @@ Brettspielrunde is intended to be available wherever it is useful:
 
 ## Project status
 
-Brettspielrunde is currently in **active development**.
+Brettspielrunde has **beta releases** and remains in **active development**.
 
 The current product direction focuses on:
 - multiplayer play workflows
@@ -151,7 +151,7 @@ Features and scope may still evolve significantly.
 
 ## Repository access
 
-This repository is private.
+The app's source code repository is private.
 
 To get access:
 - contact the repository maintainers / organization owners
@@ -181,4 +181,6 @@ If you are part of the organization and want access, want to contribute, or want
 ## Links & References
 
 - [How to delete my account?](delete-account.md)
-- [Privacy Policy](privacy-policy.md)
+- [Privacy Policy / Datenschutzerklärung](privacy-policy.md)
+- [Legal Notice / Impressum](imprint.md)
+- [Support and Feedback](SUPPORT.md)

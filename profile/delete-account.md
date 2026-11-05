@@ -1,6 +1,6 @@
 # Account Deletion / Kontolöschung – Brettspielrunde
 
-Version / Stand: 2026-06-25
+Version / Stand: 2026-11-05
 
 - [Deutsch](#deutsch)
 - [English](#english)
@@ -11,25 +11,31 @@ Version / Stand: 2026-06-25
 
 ## Kontolöschung für „Brettspielrunde“
 
-Nutzer der App „Brettspielrunde“ können ihr Konto innerhalb der App löschen.
+Stand: 2026-11-05
 
-## Löschung innerhalb der App
-
-Pfad:
+### Löschung in der App
 
 Einstellungen → Konto → Konto löschen
 
-Bei der Kontolöschung werden personenbezogene Profildaten gelöscht oder anonymisiert. Spielrunden, Gruppenstatistiken, Ranglisten und gemeinsame Inhalte können erhalten bleiben, soweit sie auch andere Nutzer betreffen oder für die Nachvollziehbarkeit gemeinsamer Spielhistorien erforderlich sind. In diesem Fall wird der Bezug zum gelöschten Nutzer soweit möglich entfernt oder anonymisiert, zum Beispiel durch Anzeige als „Gelöschter Nutzer“.
+Bestätige die Löschung. Danach wirst du abgemeldet; die Löschung läuft auf dem Server weiter, auch wenn du die App schließt. Die Annahme der Anfrage bedeutet noch nicht, dass alles gelöscht ist. Die Dauer hängt von Datenmenge, Warteschlange und Verfügbarkeit der Dienste ab.
 
-Push-Tokens, Gerätekennungen und nicht mehr benötigte personenbezogene Zuordnungen werden gelöscht oder unbrauchbar gemacht, soweit dies technisch möglich und für die App-Funktion nicht mehr erforderlich ist.
+### Welche Daten werden entfernt?
 
-## Löschanfrage per E-Mail
+Gelöscht werden dein Anmeldekonto, dein Profil, die bei uns gespeicherten Gerätedaten aller deiner Installationen sowie persönliche Freundschafts-, Einladungs- und Ranglistenzuordnungen. Weitere Kontoverweise werden entfernt oder ersetzt.
 
-Falls der Zugriff auf die App nicht mehr möglich ist, kann eine Löschanfrage per E-Mail gestellt werden:
+Deine bisherige Konto-ID bleibt nach Abschluss mindestens zwei Stunden gesperrt, damit alte Anmeldungen keine Daten neu anlegen können. Danach wird die Sperre automatisch entfernt. Sie enthält keine Profildaten oder Verknüpfungen zu Ersatzkennungen.
 
-contact@brettspielrunde.com
+### Welche Inhalte bleiben bestehen?
 
-Zur Vermeidung unberechtigter Löschungen kann eine Verifikation erforderlich sein, damit sichergestellt ist, dass die Anfrage vom betroffenen Nutzerkonto stammt.
+Gemeinsame Spiele, Ergebnisse, Platzierungen und Teams bleiben erhalten. Du erscheinst als „Gelöschter Nutzer“ mit einer zufälligen Kennung je Spiel. Eine Zuordnung zu deiner alten Konto-ID wird nicht gespeichert. Andere Mitglieder können ihre Gruppen weiterführen.
+
+Freitexte oder der Spielkontext können dich weiterhin erkennbar machen. Vollständige Anonymität ist deshalb nicht garantiert. Du kannst dafür eine ergänzende Löschung anfragen.
+
+Protokolle, Sicherungen und Daten bei Dienstleistern, etwa Firebase-Kennungen und Analytics-Daten, können länger bestehen. Die Kontolöschung löscht diese nicht automatisch mit. Details stehen in Abschnitt 9 der Datenschutzerklärung; ergänzende Löschanfragen sind per E-Mail möglich.
+
+### Anfrage ohne App-Zugang
+
+Schreibe an contact@brettspielrunde.com und nenne dein Konto, soweit bekannt. Sende keine Passwörter oder Anmeldetokens. Bei begründeten Zweifeln prüfen wir deine Identität. Wir antworten grundsätzlich innerhalb zwei Wochen.
 
 ---
 
@@ -37,22 +43,28 @@ Zur Vermeidung unberechtigter Löschungen kann eine Verifikation erforderlich se
 
 ## Account Deletion for “Brettspielrunde”
 
-Users of the app “Brettspielrunde” can delete their account within the app.
+Effective date: 2026-11-05
 
-## Deletion Within the App
-
-Path:
+### Deletion in the App
 
 Settings → Account → Delete account
 
-When an account is deleted, personal profile data is deleted or anonymized. Game sessions, group statistics, leaderboards, and shared content may remain where they also concern other users or are required for the traceability of shared game histories. In this case, the link to the deleted user is removed or anonymized as far as possible, for example by displaying the user as “Deleted user”.
+Confirm deletion in the app. You will be signed out, and deletion continues on the server even if you close the app. Acceptance of the request does not mean everything is already deleted. Timing depends on data volume, the queue, and service availability.
 
-Push tokens, device identifiers, and personal associations that are no longer required are deleted or made unusable where technically possible and no longer required for the app function.
+### Which Data Is Removed?
 
-## Deletion Request by Email
+We delete your sign-in account, profile, device records stored by us for all your installations, and personal friendship, invitation, and leaderboard links. Other account references are removed or replaced.
 
-If access to the app is no longer possible, a deletion request may be sent by email to:
+Your former account ID remains blocked for at least two hours after completion to prevent old sign-ins from recreating data. The block is then removed automatically. It contains no profile data or links to replacement identifiers.
 
-contact@brettspielrunde.com
+### Which Content Remains?
 
-To prevent unauthorized deletion, verification may be required to ensure that the request comes from the affected user account.
+Shared games, results, placements, and teams remain. You appear as “Gelöschter Nutzer” (deleted user), with a random identifier for each game. No link to your old account ID is stored. Other members can continue managing their groups.
+
+Free text or game context may still identify you, so full anonymity is not guaranteed. You can request additional deletion of such content.
+
+Logs, backups, and provider-held data, such as Firebase identifiers and Analytics records, may remain longer. Account deletion does not automatically delete these. See section 9 of the privacy policy; you can request additional deletion by email.
+
+### Request Without App Access
+
+Email contact@brettspielrunde.com and identify your account where known. Do not send passwords or sign-in tokens. We may verify your identity if there are reasonable doubts. We generally reply within two weeks.
